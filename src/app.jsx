@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
-export class MyComponent extends Component<void, {}> {
+export class MyComponent extends Component {
 
   constructor() {
     super();
